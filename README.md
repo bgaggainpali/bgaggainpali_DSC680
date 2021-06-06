@@ -7,6 +7,7 @@ With the enhancement in the banking sector lots of people are applying for bank 
 
 
 # Project 2: Credit Card Default Prediction
+https://github.com/bgaggainpali/bgaggainpali_DSC680/tree/main/Credit%20Card%20Default%20Prediction
 In financial industry, banks are playing important role in challenging times like now, with COVID pandemic across the globe. People are losing jobs and financial institutions are facing more delinquency rate on credit card loans.  The increase in delinquency rate will result in significant financial loss to commercial banks.  It is very critical for lending institutions like banks to have a prediction model to be able to predict customers for credit card default. 
 I have selected the topic, as I was interested in knowing the variables which influence the credit card default key factors. As I explore more about the domain, I understand that it’s not same set of rules which is being used across domain and each different banks and credit unions are based on different credit score calculation structure when approving credit cards, but the factors which influence the default are same.
 
